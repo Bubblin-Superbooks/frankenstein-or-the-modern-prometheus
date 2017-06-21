@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "Frankenstein; Or, The Modern Prometheus",
-  "type": "text"
+  "name": "Frankenstein",
+  "type": "text",
+  "book_id": 450
 }
